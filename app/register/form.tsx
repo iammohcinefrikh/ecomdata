@@ -63,7 +63,7 @@ export default function RegisterForm() {
     <div className="flex h-screen items-center justify-center">
       <Card className="mx-auto max-w-sm">
         <CardHeader>
-          <CardTitle className="text-xl">S'enregistrer</CardTitle>
+          <CardTitle className="text-xl">S&apos;enregistrer</CardTitle>
           <CardDescription>Saisissez vos informations pour créer un compte</CardDescription>
         </CardHeader>
         <CardContent>

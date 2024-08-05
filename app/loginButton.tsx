@@ -20,7 +20,7 @@ export default function LoginButton() {
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuItem onClick={() => { router.push("/login") }}>Se connecter</DropdownMenuItem>
-        <DropdownMenuItem onClick={() => { router.push("/register") }}>S'enregistrer</DropdownMenuItem>
+        <DropdownMenuItem onClick={() => { router.push("/register") }}>S&apos;enregistrer</DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   )

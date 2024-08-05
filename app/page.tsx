@@ -36,7 +36,7 @@ export default async function Home() {
                   <>
                     <span className="font-bold text-wrap">priceTracker</span>
                     <Link href="/login">Se connecter</Link>
-                    <Link href="/register">S'enregistrer</Link>
+                    <Link href="/register">S&apos;enregistrer</Link>
                   </>
                 ) }
               </nav>

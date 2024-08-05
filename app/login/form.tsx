@@ -80,7 +80,7 @@ export default function LoginForm() {
           </Form>
           <div className="mt-4 text-center text-sm">
             Vous n&apos;avez pas de compte?{" "}
-            <Link href="/register" className="underline">S'enregistrer</Link>
+            <Link href="/register" className="underline">S&apos;enregistrer</Link>
           </div>
         </CardContent>
       </Card>

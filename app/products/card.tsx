@@ -131,7 +131,7 @@ export default function ProductsCard() {
           <div className="grid gap-2">
           <CardTitle>Produits</CardTitle>
             <CardDescription>
-              Gérez et suivez vos produits et consultez l'historique de leurs prix.
+              Gérez et suivez vos produits et consultez l&apos;historique de leurs prix.
             </CardDescription>
           </div>
           <Dialog open={isDialogOpen} onOpenChange={handleOpenChange}>
